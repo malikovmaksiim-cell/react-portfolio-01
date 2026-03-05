@@ -3,7 +3,7 @@ export const projects = [
     {
         title: "Task Management App",
         description: "Collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
-        tech: ["React", "Tailwind CSS", ],
+        tech: ["React", "Tailwind CSS", "JavaScript", "HTML5" ],
         github: "https://github.com/malikovmaksiim-cell",
         demo: "https://taskapp-demo.com"
     },
