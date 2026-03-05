@@ -38,10 +38,10 @@ const Navigation = ({ language = "ru", onLanguageChange }) => {
     }, []);
 
     const navItems = [
-  { href: "#about", label: t("nav_about", language) },
-  { href: "#projects", label: t("nav_projects", language) },
-  { href: "#skills", label: t("nav_skills", language) },
-  { href: "#contact", label: t("nav_contact", language) },
+  { href: "#about", label: t("about", language) },
+  { href: "#projects", label: t("projects", language) },
+  { href: "#skills", label: t("skills", language) },
+  { href: "#contact", label: t("contact", language) },
 ];
 
 
