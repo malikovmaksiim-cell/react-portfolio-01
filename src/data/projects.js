@@ -8,11 +8,11 @@ export const projects = [
         demo: "https://taskapp-demo.com"
     },
     {
-        title: "Weather Dashboard",
-        description: "Beautiful weather application with location-based forecasts, interactive maps, and detailed weather analytics.",
-        tech: ["Vue.js", "OpenWeather API", "Chart.js", "CSS3"],
+        title: "E-Venzo Online Store",
+        description: "An e-commerce platform for selling products online, featuring a user-friendly interface, secure payment processing, and inventory management.",
+        tech: ["Vue.js", "OpenWeather API", "Chart.js", "CSS3", "HTML5"],
         github: "https://github.com/malikovmaksiim-cell",
-        demo: "https://weather-demo.com"
+        demo: "http://evenzo.ee/ru/"
     },
     {
         title: "CVpro fullstack app",
