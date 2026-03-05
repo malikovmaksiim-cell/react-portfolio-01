@@ -34,7 +34,7 @@ const About = ({ hasAnimated }) => {
                         <div>
                             <p className="text-lg text-gray-700 mb-6">
                                 I'm a passionate frontend developer with 2 years of experience creating exceptional digital experiences.
-                                I specialize in React, TypeScript, and modern CSS frameworks to build scalable, performant applications.
+                                I specialize in React, UI/UX design, and modern CSS frameworks to build scalable, performant applications.
                             </p>
                             <p className="text-lg text-gray-700 mb-6">
                                 My journey started with a curiosity for how websites work, and it has evolved into a love for crafting
